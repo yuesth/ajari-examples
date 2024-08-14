@@ -2617,9 +2617,9 @@ postcss-nested@^6.0.1:
     postcss-selector-parser "^6.1.1"
 
 postcss-selector-parser@^6.0.11, postcss-selector-parser@^6.1.1:
-  version "6.1.2"
-  resolved "https://registry.yarnpkg.com/postcss-selector-parser/-/postcss-selector-parser-6.1.2.tgz#27ecb41fb0e3b6ba7a1ec84fff347f734c7929de"
-  integrity sha512-Q8qQfPiZ+THO/3ZrOrO0cJJKfpYCagtMUkXbnEfmgUjwXg6z/WBeOyS9APBBPCTSiDV+s4SwQGu8yFsiMRIudg==
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/postcss-selector-parser/-/postcss-selector-parser-6.1.1.tgz#5be94b277b8955904476a2400260002ce6c56e38"
+  integrity sha512-b4dlw/9V8A71rLIDsSwVmak9z2DuBUB7CA1/wSdelNEzqsjoSPeADTWNO09lpH49Diy3/JIZ2bSPB1dI3LJCHg==
   dependencies:
     cssesc "^3.0.0"
     util-deprecate "^1.0.2"
@@ -2704,9 +2704,9 @@ react-hot-toast@^2.4.1:
     goober "^2.1.10"
 
 react-icons@^5.2.1:
-  version "5.3.0"
-  resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-5.3.0.tgz#ccad07a30aebd40a89f8cfa7d82e466019203f1c"
-  integrity sha512-DnUk8aFbTyQPSkCfF8dbX6kQjXA9DktMeJqfjrg6cK9vwQVMxmcA3BfP4QoiztVmEHtwlTgLFsPuH2NskKT6eg==
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-5.2.1.tgz#28c2040917b2a2eda639b0f797bff1888e018e4a"
+  integrity sha512-zdbW5GstTzXaVKvGSyTaBalt7HSfuK5ovrzlpyiWHAFXndXTdd/1hdDHI4xBM1Mn7YriT6aqESucFl9kEXzrdw==
 
 react-infinite-scroll-component@^6.1.0:
   version "6.1.0"
@@ -3207,9 +3207,9 @@ terser-webpack-plugin@^5.3.10:
     terser "^5.26.0"
 
 terser@^5.26.0:
-  version "5.31.6"
-  resolved "https://registry.yarnpkg.com/terser/-/terser-5.31.6.tgz#c63858a0f0703988d0266a82fcbf2d7ba76422b1"
-  integrity sha512-PQ4DAriWzKj+qgehQ7LK5bQqCFNMmlhjR2PFFLuqGCpuCAauxemVBWwWOxo3UIwWQx8+Pr61Df++r76wDmkQBg==
+  version "5.31.5"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-5.31.5.tgz#e48b7c65f32d2808e7dad803e4586a0bc3829b87"
+  integrity sha512-YPmas0L0rE1UyLL/llTWA0SiDOqIcAQYLeUj7cJYzXHlRTAnMSg9pPe4VJ5PlKvTrPQsdVFuiRiwyeNlYgwh2Q==
   dependencies:
     "@jridgewell/source-map" "^0.3.3"
     acorn "^8.8.2"
